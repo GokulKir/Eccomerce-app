@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746846843685",
+    "project_id": "ecoo-91c55",
+    "storage_bucket": "ecoo-91c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746846843685:android:c8391cf4224def4426a0cc",
+        "android_client_info": {
+          "package_name": "com.commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746846843685-c21oavb15m01laudu24se84c33v0eb1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH0HG6I80a369z5xOBP6KXglLZrPHUkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746846843685-c21oavb15m01laudu24se84c33v0eb1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
